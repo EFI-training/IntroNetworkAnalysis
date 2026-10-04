@@ -6,7 +6,7 @@ This is a repository for the [**Network Analysis from Scratch: Intro to Gephi**]
 
 ## IMPORTANT: Things to Do Before the First Class 
 
-Before your first session, please download [Gephi 0.10.1](https://gephi.org/users/download/) to your own device. You can choose to download the Windows or Mac version. It is **mandatory that you install Gephi before coming to class**. This is because it takes some time to download and, due to the tight schedule, **we would not be able to wait for everyone in the class to do so**.     
+Before your first session, please download [the latest version of Gephi](https://gephi.org/desktop/) to your own device. Gephi is frequently updated, but you can continue to use an older version if you already have one on your computer. You can choose to download the Windows or Mac version. It is **mandatory that you install Gephi before coming to class**. This is because it takes some time to download and, due to the tight schedule, **we would not be able to wait for everyone in the class to do so**.     
 
 After installing Gephi, please also install the **Gephi plugins**. Go to the Tools menu and install **GeoLayout**, **ExportToEarth**, and **MapofCountries**:
 
